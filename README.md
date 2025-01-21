@@ -4,8 +4,6 @@
   <div>
     <a href="https://github.com/EstevanPithan">
       <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=EstevanPithan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-      <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanPithan&layout=compact&langs_count=7&theme=radical" />
   </div>
   <div style="display: inline_block"><br>
@@ -28,14 +26,6 @@
     <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
       <img align="center" alt="Estevan-dotnet" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-    </a>
-    <a href="https://dev.java/" target="_blank" rel="noreferrer">
-      <img align="center" alt="Estevan-java" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img align="center" alt="Estevan-spring" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     </a>
   </div>
 
