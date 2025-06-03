@@ -19,14 +19,7 @@
       <img align="center" alt="Estevan-vue" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-      <img align="center" alt="Estevan-csharp" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    </a>
-    <a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
-      <img align="center" alt="Estevan-dotnet" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-    </a>
+
   </div>
 
   ##
