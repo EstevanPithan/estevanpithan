@@ -1,11 +1,5 @@
 ## Hello! I am Estevan Pithan
-  - 👀 I really like Typescript, C#, Java and IoT projects
-  - 🌱 I'm currently learning Typescript, using React or VUE.
-  <div>
-    <a href="https://github.com/EstevanPithan">
-      <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanPithan&layout=compact&langs_count=7&theme=radical" />
-  </div>
+  - 👀 I really like React, VUE, Typescript, NodeJs, GO and IoT projects
   <div style="display: inline_block"><br>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img align="center" alt="Estevan-typescript" height="30" width="40"
@@ -19,7 +13,14 @@
       <img align="center" alt="Estevan-vue" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     </a>
-
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img align="center" alt="Estevan-node" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    </a>
+    <a href="https://go.dev" target="_blank" rel="noreferrer">
+      <img align="center" alt="Estevan-go" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+    </a>
   </div>
 
   ##
